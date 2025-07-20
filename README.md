@@ -1,4 +1,4 @@
 # commitingForTestnet
 
 great
-nice
+nicedup
