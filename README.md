@@ -1,4 +1,5 @@
 # commitingForTestnet
 
 great
-nice
+nicedup
+worked
